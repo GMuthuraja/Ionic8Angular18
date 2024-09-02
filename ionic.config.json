@@ -1,0 +1,7 @@
+{
+  "name": "maui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
